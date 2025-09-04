@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Sofonias Dawit
-** Web Developer **
+** Full Stack Web Developer **
 
 ## About Me
 - 🎓 4th-year IT student passionate about building web and mobile applications.
