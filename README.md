@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Sofonias Dawit
-** Web Developer | Android App Developer**
+** Web Developer **
 
 ## About Me
 - 🎓 4th-year IT student passionate about building web and mobile applications.
