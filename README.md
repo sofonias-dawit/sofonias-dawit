@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋, I'm Sofonias Dawit
+** Web Developer | Android App Developer**
 
-<!--
-**sofonias-dawit/sofonias-dawit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 4th-year IT student passionate about building web and mobile applications.
+- 💻 Skilled in HTML, CSS, JavaScript, PHP, React.js, Android (Java), and WordPress.
+- 🌱 Always learning new technologies and improving my coding skills.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack & Tools
+- 🌐 Frontend: HTML, CSS, JavaScript, React.js
+- 🛠️ Backend: PHP, MySQL
+- 🧩 CMS: WordPress (custom themes & plugins)
+- ⚙️ Tools: Git, GitHub, Android Studio & VS Code
+- 🖥️ Networking: Cisco Packet Tracer, Huawei ensp
+  
+## Contact Me
+- 💼 LinkedIn:  (https://www.linkedin.com/in/sofonias-dawit)
+- 🌐 Portfolio: (https://sofonias.netlify.app/)
+- 📫 Email:     sofoniasdawit00@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ #Thanks!
