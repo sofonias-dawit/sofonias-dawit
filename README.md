@@ -2,7 +2,7 @@
 ** Full Stack Web Developer **
 
 ## About Me
-- 🎓 4th-year IT student passionate about building web and mobile applications.
+- 🎓 4th-year IT student passionate on building web and mobile applications.
 - 💻 Skilled in HTML, CSS, JavaScript, PHP, React.js, Android (Java), and WordPress.
 - 🌱 Always learning new technologies and improving my coding skills.
 
