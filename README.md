@@ -15,7 +15,8 @@
   
 ## Contact Me
 - 💼 LinkedIn:  (https://www.linkedin.com/in/sofonias-dawit)
-- 🌐 Portfolio: (https://sofonias.netlify.app/)
+- 🌐 Portfolio: (https://sofoniasportfolio.netlify.app/)
 - 📫 Email:     sofoniasdawit00@gmail.com
+- ✈️ Telegram:  (https://t.me/sofoniasdawit)
 
  #Thanks!
