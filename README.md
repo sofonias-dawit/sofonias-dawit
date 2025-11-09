@@ -20,6 +20,6 @@
 - ✈️ Telegram:  (https://t.me/sofoniasdawit)
 
 
-###I’m currently open to work or projects, feel free to contact me.
+I’m currently open to work or projects, feel free to contact me.   
 
-###Thanks!
+Thanks!
