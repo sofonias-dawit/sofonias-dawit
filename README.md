@@ -19,4 +19,6 @@
 - 📫 Email:     sofoniasdawit00@gmail.com
 - ✈️ Telegram:  (https://t.me/sofoniasdawit)
 
- #Thanks!
+
+I’m currently open to work or projects, feel free to contact me.
+ ##Thanks!
