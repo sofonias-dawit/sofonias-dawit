@@ -3,7 +3,7 @@
 
 ## About Me
 - 🎓 4th-year IT student passionate on building web and mobile applications.
-- 💻 Skilled in HTML, CSS, JavaScript, PHP, React.js, Android (Java), and WordPress.
+- 💻 Skilled in HTML, CSS, JavaScript, PHP, React.js, Typescript, Android (Java), and WordPress.
 - 🌱 Always learning new technologies and improving my coding skills.
 
 ## 🔧 Tech Stack & Tools
