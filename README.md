@@ -8,7 +8,7 @@
 
 ## 🔧 Tech Stack & Tools
 - 🌐 Frontend: HTML, CSS, JavaScript, React.js
-- 🛠️ Backend: PHP, MySQL
+- 🛠️ Backend: Node.js, PHP, MySQL
 - 🧩 CMS: WordPress (custom themes & plugins)
 - ⚙️ Tools: Git, GitHub, Android Studio & VS Code
 - 🖥️ Networking: Cisco Packet Tracer, Huawei ensp
