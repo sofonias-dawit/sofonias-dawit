@@ -18,7 +18,7 @@
 - 🌐 Portfolio: (https://sofoniasportfolio.netlify.app/)
 - 📫 Email:     sofoniasdawit00@gmail.com
 - ✈️ Telegram:  (https://t.me/sofoniasdawit)
-- <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/0bc03b14-23a0-43e6-a616-b12df56f3eb2" />
+- <img width="23" height="23" alt="image" src="https://github.com/user-attachments/assets/0bc03b14-23a0-43e6-a616-b12df56f3eb2" />
 <!-- - 💼 LinkedIn:  (https://www.linkedin.com/in/sofonias-dawit) -->
 
 
