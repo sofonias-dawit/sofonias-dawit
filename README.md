@@ -19,7 +19,7 @@
 - 📫 Email:     sofoniasdawit00@gmail.com
 - ✈️ Telegram:  (https://t.me/sofoniasdawit)
 <!-- - 💼 LinkedIn:  (https://www.linkedin.com/in/sofonias-dawit) -->
-<img width="51" height="51" alt="image" src="https://github.com/user-attachments/assets/0bc03b14-23a0-43e6-a616-b12df56f3eb2" />
+- <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/0bc03b14-23a0-43e6-a616-b12df56f3eb2" />
 
 
 I’m currently open to work or projects, feel free to contact me.   
