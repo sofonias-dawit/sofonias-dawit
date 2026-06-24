@@ -19,9 +19,7 @@
 - 📫 Email:     sofoniasdawit00@gmail.com
 - ✈️ Telegram:  (https://t.me/sofoniasdawit)
 - <img width="23" height="23" alt="image" src="https://github.com/user-attachments/assets/0bc03b14-23a0-43e6-a616-b12df56f3eb2" />
-- <img width="23" height="23" alt="image" src="https://github.com/user-attachments/assets/10542c9c-09a4-4b45-a927-aefc33de139a" />
-- <img width="23" height="23" alt="image" src="https://github.com/user-attachments/assets/439e3ed0-4af3-4958-a3d5-423f73151853" />
-
+- <img width="23" height="23" alt="image" src="https://github.com/user-attachments/assets/10542c9c-09a4-4b45-a927-aefc33de139a" /> Instagram:  https://www.instagram.com/sofonias_dawit/
 
 <!-- - 💼 LinkedIn:  (https://www.linkedin.com/in/sofonias-dawit) -->
 
