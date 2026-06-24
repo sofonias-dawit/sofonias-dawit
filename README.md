@@ -2,16 +2,17 @@
 ** Full Stack Web Developer **
 
 ## About Me
-- 🎓 4th-year IT student passionate on building web and mobile applications.
-- 💻 Skilled in HTML, CSS, JavaScript, Laravel, React.js, Typescript, Android (Java), and WordPress.
-- 🌱 Always learning new technologies and improving my coding skills.
+- 🎓 IT graduate passionate on building web and mobile applications.
+- 💻 Experienced in React.js, Typescript, Laravel, Node.js, Android (Java), and WordPress.
+- 🌱 Continuously learning new technologies and improving my software development skills.
+- 🚀 Interested in Full Stack Development, Mobile App Development, and Networking.
 
 ## 🔧 Tech Stack & Tools
-- 🌐 Frontend: HTML, CSS, JavaScript, React.js
-- 🛠️ Backend: Node.js, PHP(Laravel), MySQL
+- 🌐 Frontend: HTML, CSS, JavaScript, React.js & Typescript
+- 🛠️ Backend: Node.js, PHP(Laravel), MySQL, PostgreSQL
 - 🧩 CMS: WordPress (custom themes & plugins)
 - ⚙️ Tools: Git, GitHub, Android Studio & VS Code
-- 🖥️ Networking: Cisco Packet Tracer, Huawei ensp
+- 🖥️ Networking: Cisco Packet Tracer, Huawei ENSP
   
 ## Contact Me
 - 🌐 Portfolio: (https://sofoniasportfolio.netlify.app/)
