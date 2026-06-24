@@ -2,7 +2,7 @@
 ** Full Stack Web Developer **
 
 ## About Me
-- 🎓 IT graduate passionate on building web and mobile applications.
+- 🎓 Information Technology graduate passionate on building web and mobile applications.
 - 💻 Experienced in React.js, Typescript, Laravel, Node.js, Android (Java), and WordPress.
 - 🌱 Continuously learning new technologies and improving my software development skills.
 - 🚀 Interested in Full Stack Development, Mobile App Development, and Networking.
