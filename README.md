@@ -15,7 +15,7 @@
 - 🖥️ Networking: Cisco Packet Tracer, Huawei ENSP
   
 ## Contact Me
-- 🌐 Portfolio: https://sofoniasportfolio.netlify.app/
+- 🌐 Portfolio: https://sofonias.vercel.app
 - 📫 Email:     sofoniasdawit00@gmail.com
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0bc03b14-23a0-43e6-a616-b12df56f3eb2" />  Telegram:  https://t.me/sofoniasdawit
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/10542c9c-09a4-4b45-a927-aefc33de139a" /> Instagram:  https://www.instagram.com/sofonias_dawit/
