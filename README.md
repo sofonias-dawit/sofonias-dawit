@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Sofonias Dawit
-###** Full Stack Web Developer **
+### ** Full Stack Web Developer **
 
 #### I build responsive, reliable web applications and business systems from idea to production.
 ## About Me
