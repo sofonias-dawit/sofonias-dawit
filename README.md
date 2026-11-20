@@ -2,16 +2,19 @@
 ** Full Stack Web Developer **
 
 ## About Me
-- 🎓 Information Technology graduate passionate on building web and mobile applications.
-- 💻 Experienced in React.js, Typescript, Laravel, Node.js, Android (Java), and WordPress.
-- 🌱 Continuously learning new technologies and improving my software development skills.
-- 🚀 Interested in Full Stack Development, Mobile App Development, and Networking.
+- 🎓 Information Technology graduate passionate about building practical web and business applications.
+- 💻 Experienced in React, Next.js, TypeScript, JavaScript, Node.js, Express.js, Laravel, and relational databases.
+- 🔌 Experienced in building REST APIs, third-party integrations, authentication, webhooks, and payment workflows.
+- 🧪 Interested in software testing, end-to-end workflow validation, and building reliable production systems.
+- 🏢 Exploring ERP and business process analysis with Odoo 18, including procurement, inventory, accounting, quality, maintenance, and planning workflows.
+- 🌱 Continuously learning and improving my software engineering and system analysis skills.
+- 🚀 Interested in Full-Stack Development, Business Systems, API Integration, ERP, and Production Software Delivery.
 
 ## 🔧 Tech Stack & Tools
-- 🌐 Frontend: HTML, CSS, JavaScript, React.js & Typescript
-- 🛠️ Backend: Node.js, PHP(Laravel), MySQL, PostgreSQL
+- 🌐 Frontend: React.js & Typescript, JavaScript, HTML, CSS, Tailwind CSS
+- 🛠️ Backend: Node.js, Express.js, PHP(Laravel), MySQL, PostgreSQL
 - 🧩 CMS: WordPress (custom themes & plugins)
-- ⚙️ Tools: Git, GitHub, Android Studio & VS Code
+- ⚙️ Tools: Git, GitHub, Docker, cPanel, Android Studio & VS Code
 - 🖥️ Networking: Cisco Packet Tracer, Huawei ENSP
   
 ## Contact Me
