@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sofonias Dawit
 ** Full Stack Web Developer **
-
+I build responsive, reliable web applications and business systems from idea to production.
 ## About Me
 - 🎓 Information Technology graduate passionate about building practical web and business applications.
 - 💻 Experienced in React, Next.js, TypeScript, JavaScript, Node.js, Express.js, Laravel, and relational databases.
